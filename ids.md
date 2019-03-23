@@ -1,3 +1,4 @@
+<!-- List Version 3.4 (2018-12-20) -->
 [0BSD](https://spdx.org/licenses/0BSD.html)
 
 [AAL](https://spdx.org/licenses/AAL.html)
