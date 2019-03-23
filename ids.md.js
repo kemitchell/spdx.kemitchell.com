@@ -19,7 +19,7 @@ https.get(URL, function (response) {
       console.log(`<!-- List Version ${parsed.licenseListVersion} (${parsed.releaseDate}) -->\n`)
       parsed.licenses.forEach(function (license) {
         var id = license.licenseId
-        console.log(`[${id}](https://spdx.org/licenses/${id}.html)\n`)
+        console.log(`[${id}]: https://spdx.org/licenses/${id}.html\n`)
       })
     })
 })

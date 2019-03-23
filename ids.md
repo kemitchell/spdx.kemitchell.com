@@ -1,765 +1,766 @@
 <!-- List Version 3.4 (2018-12-20) -->
-[0BSD](https://spdx.org/licenses/0BSD.html)
 
-[AAL](https://spdx.org/licenses/AAL.html)
+[0BSD]: https://spdx.org/licenses/0BSD.html
 
-[ADSL](https://spdx.org/licenses/ADSL.html)
+[AAL]: https://spdx.org/licenses/AAL.html
 
-[AFL-1.1](https://spdx.org/licenses/AFL-1.1.html)
+[ADSL]: https://spdx.org/licenses/ADSL.html
 
-[AFL-1.2](https://spdx.org/licenses/AFL-1.2.html)
+[AFL-1.1]: https://spdx.org/licenses/AFL-1.1.html
 
-[AFL-2.0](https://spdx.org/licenses/AFL-2.0.html)
+[AFL-1.2]: https://spdx.org/licenses/AFL-1.2.html
 
-[AFL-2.1](https://spdx.org/licenses/AFL-2.1.html)
+[AFL-2.0]: https://spdx.org/licenses/AFL-2.0.html
 
-[AFL-3.0](https://spdx.org/licenses/AFL-3.0.html)
+[AFL-2.1]: https://spdx.org/licenses/AFL-2.1.html
 
-[AGPL-1.0](https://spdx.org/licenses/AGPL-1.0.html)
+[AFL-3.0]: https://spdx.org/licenses/AFL-3.0.html
 
-[AGPL-1.0-only](https://spdx.org/licenses/AGPL-1.0-only.html)
+[AGPL-1.0]: https://spdx.org/licenses/AGPL-1.0.html
 
-[AGPL-1.0-or-later](https://spdx.org/licenses/AGPL-1.0-or-later.html)
+[AGPL-1.0-only]: https://spdx.org/licenses/AGPL-1.0-only.html
 
-[AGPL-3.0](https://spdx.org/licenses/AGPL-3.0.html)
+[AGPL-1.0-or-later]: https://spdx.org/licenses/AGPL-1.0-or-later.html
 
-[AGPL-3.0-only](https://spdx.org/licenses/AGPL-3.0-only.html)
+[AGPL-3.0]: https://spdx.org/licenses/AGPL-3.0.html
 
-[AGPL-3.0-or-later](https://spdx.org/licenses/AGPL-3.0-or-later.html)
+[AGPL-3.0-only]: https://spdx.org/licenses/AGPL-3.0-only.html
 
-[AMDPLPA](https://spdx.org/licenses/AMDPLPA.html)
+[AGPL-3.0-or-later]: https://spdx.org/licenses/AGPL-3.0-or-later.html
 
-[AML](https://spdx.org/licenses/AML.html)
+[AMDPLPA]: https://spdx.org/licenses/AMDPLPA.html
 
-[AMPAS](https://spdx.org/licenses/AMPAS.html)
+[AML]: https://spdx.org/licenses/AML.html
 
-[ANTLR-PD](https://spdx.org/licenses/ANTLR-PD.html)
+[AMPAS]: https://spdx.org/licenses/AMPAS.html
 
-[APAFML](https://spdx.org/licenses/APAFML.html)
+[ANTLR-PD]: https://spdx.org/licenses/ANTLR-PD.html
 
-[APL-1.0](https://spdx.org/licenses/APL-1.0.html)
+[APAFML]: https://spdx.org/licenses/APAFML.html
 
-[APSL-1.0](https://spdx.org/licenses/APSL-1.0.html)
+[APL-1.0]: https://spdx.org/licenses/APL-1.0.html
 
-[APSL-1.1](https://spdx.org/licenses/APSL-1.1.html)
+[APSL-1.0]: https://spdx.org/licenses/APSL-1.0.html
 
-[APSL-1.2](https://spdx.org/licenses/APSL-1.2.html)
+[APSL-1.1]: https://spdx.org/licenses/APSL-1.1.html
 
-[APSL-2.0](https://spdx.org/licenses/APSL-2.0.html)
+[APSL-1.2]: https://spdx.org/licenses/APSL-1.2.html
 
-[Abstyles](https://spdx.org/licenses/Abstyles.html)
+[APSL-2.0]: https://spdx.org/licenses/APSL-2.0.html
 
-[Adobe-2006](https://spdx.org/licenses/Adobe-2006.html)
+[Abstyles]: https://spdx.org/licenses/Abstyles.html
 
-[Adobe-Glyph](https://spdx.org/licenses/Adobe-Glyph.html)
+[Adobe-2006]: https://spdx.org/licenses/Adobe-2006.html
 
-[Afmparse](https://spdx.org/licenses/Afmparse.html)
+[Adobe-Glyph]: https://spdx.org/licenses/Adobe-Glyph.html
 
-[Aladdin](https://spdx.org/licenses/Aladdin.html)
+[Afmparse]: https://spdx.org/licenses/Afmparse.html
 
-[Apache-1.0](https://spdx.org/licenses/Apache-1.0.html)
+[Aladdin]: https://spdx.org/licenses/Aladdin.html
 
-[Apache-1.1](https://spdx.org/licenses/Apache-1.1.html)
+[Apache-1.0]: https://spdx.org/licenses/Apache-1.0.html
 
-[Apache-2.0](https://spdx.org/licenses/Apache-2.0.html)
+[Apache-1.1]: https://spdx.org/licenses/Apache-1.1.html
 
-[Artistic-1.0](https://spdx.org/licenses/Artistic-1.0.html)
+[Apache-2.0]: https://spdx.org/licenses/Apache-2.0.html
 
-[Artistic-1.0-Perl](https://spdx.org/licenses/Artistic-1.0-Perl.html)
+[Artistic-1.0]: https://spdx.org/licenses/Artistic-1.0.html
 
-[Artistic-1.0-cl8](https://spdx.org/licenses/Artistic-1.0-cl8.html)
+[Artistic-1.0-Perl]: https://spdx.org/licenses/Artistic-1.0-Perl.html
 
-[Artistic-2.0](https://spdx.org/licenses/Artistic-2.0.html)
+[Artistic-1.0-cl8]: https://spdx.org/licenses/Artistic-1.0-cl8.html
 
-[BSD-1-Clause](https://spdx.org/licenses/BSD-1-Clause.html)
+[Artistic-2.0]: https://spdx.org/licenses/Artistic-2.0.html
 
-[BSD-2-Clause](https://spdx.org/licenses/BSD-2-Clause.html)
+[BSD-1-Clause]: https://spdx.org/licenses/BSD-1-Clause.html
 
-[BSD-2-Clause-FreeBSD](https://spdx.org/licenses/BSD-2-Clause-FreeBSD.html)
+[BSD-2-Clause]: https://spdx.org/licenses/BSD-2-Clause.html
 
-[BSD-2-Clause-NetBSD](https://spdx.org/licenses/BSD-2-Clause-NetBSD.html)
+[BSD-2-Clause-FreeBSD]: https://spdx.org/licenses/BSD-2-Clause-FreeBSD.html
 
-[BSD-2-Clause-Patent](https://spdx.org/licenses/BSD-2-Clause-Patent.html)
+[BSD-2-Clause-NetBSD]: https://spdx.org/licenses/BSD-2-Clause-NetBSD.html
 
-[BSD-3-Clause](https://spdx.org/licenses/BSD-3-Clause.html)
+[BSD-2-Clause-Patent]: https://spdx.org/licenses/BSD-2-Clause-Patent.html
 
-[BSD-3-Clause-Attribution](https://spdx.org/licenses/BSD-3-Clause-Attribution.html)
+[BSD-3-Clause]: https://spdx.org/licenses/BSD-3-Clause.html
 
-[BSD-3-Clause-Clear](https://spdx.org/licenses/BSD-3-Clause-Clear.html)
+[BSD-3-Clause-Attribution]: https://spdx.org/licenses/BSD-3-Clause-Attribution.html
 
-[BSD-3-Clause-LBNL](https://spdx.org/licenses/BSD-3-Clause-LBNL.html)
+[BSD-3-Clause-Clear]: https://spdx.org/licenses/BSD-3-Clause-Clear.html
 
-[BSD-3-Clause-No-Nuclear-License](https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License.html)
+[BSD-3-Clause-LBNL]: https://spdx.org/licenses/BSD-3-Clause-LBNL.html
 
-[BSD-3-Clause-No-Nuclear-License-2014](https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014.html)
+[BSD-3-Clause-No-Nuclear-License]: https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License.html
 
-[BSD-3-Clause-No-Nuclear-Warranty](https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-Warranty.html)
+[BSD-3-Clause-No-Nuclear-License-2014]: https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014.html
 
-[BSD-4-Clause](https://spdx.org/licenses/BSD-4-Clause.html)
+[BSD-3-Clause-No-Nuclear-Warranty]: https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-Warranty.html
 
-[BSD-4-Clause-UC](https://spdx.org/licenses/BSD-4-Clause-UC.html)
+[BSD-4-Clause]: https://spdx.org/licenses/BSD-4-Clause.html
 
-[BSD-Protection](https://spdx.org/licenses/BSD-Protection.html)
+[BSD-4-Clause-UC]: https://spdx.org/licenses/BSD-4-Clause-UC.html
 
-[BSD-Source-Code](https://spdx.org/licenses/BSD-Source-Code.html)
+[BSD-Protection]: https://spdx.org/licenses/BSD-Protection.html
 
-[BSL-1.0](https://spdx.org/licenses/BSL-1.0.html)
+[BSD-Source-Code]: https://spdx.org/licenses/BSD-Source-Code.html
 
-[Bahyph](https://spdx.org/licenses/Bahyph.html)
+[BSL-1.0]: https://spdx.org/licenses/BSL-1.0.html
 
-[Barr](https://spdx.org/licenses/Barr.html)
+[Bahyph]: https://spdx.org/licenses/Bahyph.html
 
-[Beerware](https://spdx.org/licenses/Beerware.html)
+[Barr]: https://spdx.org/licenses/Barr.html
 
-[BitTorrent-1.0](https://spdx.org/licenses/BitTorrent-1.0.html)
+[Beerware]: https://spdx.org/licenses/Beerware.html
 
-[BitTorrent-1.1](https://spdx.org/licenses/BitTorrent-1.1.html)
+[BitTorrent-1.0]: https://spdx.org/licenses/BitTorrent-1.0.html
 
-[Borceux](https://spdx.org/licenses/Borceux.html)
+[BitTorrent-1.1]: https://spdx.org/licenses/BitTorrent-1.1.html
 
-[CATOSL-1.1](https://spdx.org/licenses/CATOSL-1.1.html)
+[Borceux]: https://spdx.org/licenses/Borceux.html
 
-[CC-BY-1.0](https://spdx.org/licenses/CC-BY-1.0.html)
+[CATOSL-1.1]: https://spdx.org/licenses/CATOSL-1.1.html
 
-[CC-BY-2.0](https://spdx.org/licenses/CC-BY-2.0.html)
+[CC-BY-1.0]: https://spdx.org/licenses/CC-BY-1.0.html
 
-[CC-BY-2.5](https://spdx.org/licenses/CC-BY-2.5.html)
+[CC-BY-2.0]: https://spdx.org/licenses/CC-BY-2.0.html
 
-[CC-BY-3.0](https://spdx.org/licenses/CC-BY-3.0.html)
+[CC-BY-2.5]: https://spdx.org/licenses/CC-BY-2.5.html
 
-[CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html)
+[CC-BY-3.0]: https://spdx.org/licenses/CC-BY-3.0.html
 
-[CC-BY-NC-1.0](https://spdx.org/licenses/CC-BY-NC-1.0.html)
+[CC-BY-4.0]: https://spdx.org/licenses/CC-BY-4.0.html
 
-[CC-BY-NC-2.0](https://spdx.org/licenses/CC-BY-NC-2.0.html)
+[CC-BY-NC-1.0]: https://spdx.org/licenses/CC-BY-NC-1.0.html
 
-[CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5.html)
+[CC-BY-NC-2.0]: https://spdx.org/licenses/CC-BY-NC-2.0.html
 
-[CC-BY-NC-3.0](https://spdx.org/licenses/CC-BY-NC-3.0.html)
+[CC-BY-NC-2.5]: https://spdx.org/licenses/CC-BY-NC-2.5.html
 
-[CC-BY-NC-4.0](https://spdx.org/licenses/CC-BY-NC-4.0.html)
+[CC-BY-NC-3.0]: https://spdx.org/licenses/CC-BY-NC-3.0.html
 
-[CC-BY-NC-ND-1.0](https://spdx.org/licenses/CC-BY-NC-ND-1.0.html)
+[CC-BY-NC-4.0]: https://spdx.org/licenses/CC-BY-NC-4.0.html
 
-[CC-BY-NC-ND-2.0](https://spdx.org/licenses/CC-BY-NC-ND-2.0.html)
+[CC-BY-NC-ND-1.0]: https://spdx.org/licenses/CC-BY-NC-ND-1.0.html
 
-[CC-BY-NC-ND-2.5](https://spdx.org/licenses/CC-BY-NC-ND-2.5.html)
+[CC-BY-NC-ND-2.0]: https://spdx.org/licenses/CC-BY-NC-ND-2.0.html
 
-[CC-BY-NC-ND-3.0](https://spdx.org/licenses/CC-BY-NC-ND-3.0.html)
+[CC-BY-NC-ND-2.5]: https://spdx.org/licenses/CC-BY-NC-ND-2.5.html
 
-[CC-BY-NC-ND-4.0](https://spdx.org/licenses/CC-BY-NC-ND-4.0.html)
+[CC-BY-NC-ND-3.0]: https://spdx.org/licenses/CC-BY-NC-ND-3.0.html
 
-[CC-BY-NC-SA-1.0](https://spdx.org/licenses/CC-BY-NC-SA-1.0.html)
+[CC-BY-NC-ND-4.0]: https://spdx.org/licenses/CC-BY-NC-ND-4.0.html
 
-[CC-BY-NC-SA-2.0](https://spdx.org/licenses/CC-BY-NC-SA-2.0.html)
+[CC-BY-NC-SA-1.0]: https://spdx.org/licenses/CC-BY-NC-SA-1.0.html
 
-[CC-BY-NC-SA-2.5](https://spdx.org/licenses/CC-BY-NC-SA-2.5.html)
+[CC-BY-NC-SA-2.0]: https://spdx.org/licenses/CC-BY-NC-SA-2.0.html
 
-[CC-BY-NC-SA-3.0](https://spdx.org/licenses/CC-BY-NC-SA-3.0.html)
+[CC-BY-NC-SA-2.5]: https://spdx.org/licenses/CC-BY-NC-SA-2.5.html
 
-[CC-BY-NC-SA-4.0](https://spdx.org/licenses/CC-BY-NC-SA-4.0.html)
+[CC-BY-NC-SA-3.0]: https://spdx.org/licenses/CC-BY-NC-SA-3.0.html
 
-[CC-BY-ND-1.0](https://spdx.org/licenses/CC-BY-ND-1.0.html)
+[CC-BY-NC-SA-4.0]: https://spdx.org/licenses/CC-BY-NC-SA-4.0.html
 
-[CC-BY-ND-2.0](https://spdx.org/licenses/CC-BY-ND-2.0.html)
+[CC-BY-ND-1.0]: https://spdx.org/licenses/CC-BY-ND-1.0.html
 
-[CC-BY-ND-2.5](https://spdx.org/licenses/CC-BY-ND-2.5.html)
+[CC-BY-ND-2.0]: https://spdx.org/licenses/CC-BY-ND-2.0.html
 
-[CC-BY-ND-3.0](https://spdx.org/licenses/CC-BY-ND-3.0.html)
+[CC-BY-ND-2.5]: https://spdx.org/licenses/CC-BY-ND-2.5.html
 
-[CC-BY-ND-4.0](https://spdx.org/licenses/CC-BY-ND-4.0.html)
+[CC-BY-ND-3.0]: https://spdx.org/licenses/CC-BY-ND-3.0.html
 
-[CC-BY-SA-1.0](https://spdx.org/licenses/CC-BY-SA-1.0.html)
+[CC-BY-ND-4.0]: https://spdx.org/licenses/CC-BY-ND-4.0.html
 
-[CC-BY-SA-2.0](https://spdx.org/licenses/CC-BY-SA-2.0.html)
+[CC-BY-SA-1.0]: https://spdx.org/licenses/CC-BY-SA-1.0.html
 
-[CC-BY-SA-2.5](https://spdx.org/licenses/CC-BY-SA-2.5.html)
+[CC-BY-SA-2.0]: https://spdx.org/licenses/CC-BY-SA-2.0.html
 
-[CC-BY-SA-3.0](https://spdx.org/licenses/CC-BY-SA-3.0.html)
+[CC-BY-SA-2.5]: https://spdx.org/licenses/CC-BY-SA-2.5.html
 
-[CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html)
+[CC-BY-SA-3.0]: https://spdx.org/licenses/CC-BY-SA-3.0.html
 
-[CC0-1.0](https://spdx.org/licenses/CC0-1.0.html)
+[CC-BY-SA-4.0]: https://spdx.org/licenses/CC-BY-SA-4.0.html
 
-[CDDL-1.0](https://spdx.org/licenses/CDDL-1.0.html)
+[CC0-1.0]: https://spdx.org/licenses/CC0-1.0.html
 
-[CDDL-1.1](https://spdx.org/licenses/CDDL-1.1.html)
+[CDDL-1.0]: https://spdx.org/licenses/CDDL-1.0.html
 
-[CDLA-Permissive-1.0](https://spdx.org/licenses/CDLA-Permissive-1.0.html)
+[CDDL-1.1]: https://spdx.org/licenses/CDDL-1.1.html
 
-[CDLA-Sharing-1.0](https://spdx.org/licenses/CDLA-Sharing-1.0.html)
+[CDLA-Permissive-1.0]: https://spdx.org/licenses/CDLA-Permissive-1.0.html
 
-[CECILL-1.0](https://spdx.org/licenses/CECILL-1.0.html)
+[CDLA-Sharing-1.0]: https://spdx.org/licenses/CDLA-Sharing-1.0.html
 
-[CECILL-1.1](https://spdx.org/licenses/CECILL-1.1.html)
+[CECILL-1.0]: https://spdx.org/licenses/CECILL-1.0.html
 
-[CECILL-2.0](https://spdx.org/licenses/CECILL-2.0.html)
+[CECILL-1.1]: https://spdx.org/licenses/CECILL-1.1.html
 
-[CECILL-2.1](https://spdx.org/licenses/CECILL-2.1.html)
+[CECILL-2.0]: https://spdx.org/licenses/CECILL-2.0.html
 
-[CECILL-B](https://spdx.org/licenses/CECILL-B.html)
+[CECILL-2.1]: https://spdx.org/licenses/CECILL-2.1.html
 
-[CECILL-C](https://spdx.org/licenses/CECILL-C.html)
+[CECILL-B]: https://spdx.org/licenses/CECILL-B.html
 
-[CNRI-Jython](https://spdx.org/licenses/CNRI-Jython.html)
+[CECILL-C]: https://spdx.org/licenses/CECILL-C.html
 
-[CNRI-Python](https://spdx.org/licenses/CNRI-Python.html)
+[CNRI-Jython]: https://spdx.org/licenses/CNRI-Jython.html
 
-[CNRI-Python-GPL-Compatible](https://spdx.org/licenses/CNRI-Python-GPL-Compatible.html)
+[CNRI-Python]: https://spdx.org/licenses/CNRI-Python.html
 
-[CPAL-1.0](https://spdx.org/licenses/CPAL-1.0.html)
+[CNRI-Python-GPL-Compatible]: https://spdx.org/licenses/CNRI-Python-GPL-Compatible.html
 
-[CPL-1.0](https://spdx.org/licenses/CPL-1.0.html)
+[CPAL-1.0]: https://spdx.org/licenses/CPAL-1.0.html
 
-[CPOL-1.02](https://spdx.org/licenses/CPOL-1.02.html)
+[CPL-1.0]: https://spdx.org/licenses/CPL-1.0.html
 
-[CUA-OPL-1.0](https://spdx.org/licenses/CUA-OPL-1.0.html)
+[CPOL-1.02]: https://spdx.org/licenses/CPOL-1.02.html
 
-[Caldera](https://spdx.org/licenses/Caldera.html)
+[CUA-OPL-1.0]: https://spdx.org/licenses/CUA-OPL-1.0.html
 
-[ClArtistic](https://spdx.org/licenses/ClArtistic.html)
+[Caldera]: https://spdx.org/licenses/Caldera.html
 
-[Condor-1.1](https://spdx.org/licenses/Condor-1.1.html)
+[ClArtistic]: https://spdx.org/licenses/ClArtistic.html
 
-[Crossword](https://spdx.org/licenses/Crossword.html)
+[Condor-1.1]: https://spdx.org/licenses/Condor-1.1.html
 
-[CrystalStacker](https://spdx.org/licenses/CrystalStacker.html)
+[Crossword]: https://spdx.org/licenses/Crossword.html
 
-[Cube](https://spdx.org/licenses/Cube.html)
+[CrystalStacker]: https://spdx.org/licenses/CrystalStacker.html
 
-[D-FSL-1.0](https://spdx.org/licenses/D-FSL-1.0.html)
+[Cube]: https://spdx.org/licenses/Cube.html
 
-[DOC](https://spdx.org/licenses/DOC.html)
+[D-FSL-1.0]: https://spdx.org/licenses/D-FSL-1.0.html
 
-[DSDP](https://spdx.org/licenses/DSDP.html)
+[DOC]: https://spdx.org/licenses/DOC.html
 
-[Dotseqn](https://spdx.org/licenses/Dotseqn.html)
+[DSDP]: https://spdx.org/licenses/DSDP.html
 
-[ECL-1.0](https://spdx.org/licenses/ECL-1.0.html)
+[Dotseqn]: https://spdx.org/licenses/Dotseqn.html
 
-[ECL-2.0](https://spdx.org/licenses/ECL-2.0.html)
+[ECL-1.0]: https://spdx.org/licenses/ECL-1.0.html
 
-[EFL-1.0](https://spdx.org/licenses/EFL-1.0.html)
+[ECL-2.0]: https://spdx.org/licenses/ECL-2.0.html
 
-[EFL-2.0](https://spdx.org/licenses/EFL-2.0.html)
+[EFL-1.0]: https://spdx.org/licenses/EFL-1.0.html
 
-[EPL-1.0](https://spdx.org/licenses/EPL-1.0.html)
+[EFL-2.0]: https://spdx.org/licenses/EFL-2.0.html
 
-[EPL-2.0](https://spdx.org/licenses/EPL-2.0.html)
+[EPL-1.0]: https://spdx.org/licenses/EPL-1.0.html
 
-[EUDatagrid](https://spdx.org/licenses/EUDatagrid.html)
+[EPL-2.0]: https://spdx.org/licenses/EPL-2.0.html
 
-[EUPL-1.0](https://spdx.org/licenses/EUPL-1.0.html)
+[EUDatagrid]: https://spdx.org/licenses/EUDatagrid.html
 
-[EUPL-1.1](https://spdx.org/licenses/EUPL-1.1.html)
+[EUPL-1.0]: https://spdx.org/licenses/EUPL-1.0.html
 
-[EUPL-1.2](https://spdx.org/licenses/EUPL-1.2.html)
+[EUPL-1.1]: https://spdx.org/licenses/EUPL-1.1.html
 
-[Entessa](https://spdx.org/licenses/Entessa.html)
+[EUPL-1.2]: https://spdx.org/licenses/EUPL-1.2.html
 
-[ErlPL-1.1](https://spdx.org/licenses/ErlPL-1.1.html)
+[Entessa]: https://spdx.org/licenses/Entessa.html
 
-[Eurosym](https://spdx.org/licenses/Eurosym.html)
+[ErlPL-1.1]: https://spdx.org/licenses/ErlPL-1.1.html
 
-[FSFAP](https://spdx.org/licenses/FSFAP.html)
+[Eurosym]: https://spdx.org/licenses/Eurosym.html
 
-[FSFUL](https://spdx.org/licenses/FSFUL.html)
+[FSFAP]: https://spdx.org/licenses/FSFAP.html
 
-[FSFULLR](https://spdx.org/licenses/FSFULLR.html)
+[FSFUL]: https://spdx.org/licenses/FSFUL.html
 
-[FTL](https://spdx.org/licenses/FTL.html)
+[FSFULLR]: https://spdx.org/licenses/FSFULLR.html
 
-[Fair](https://spdx.org/licenses/Fair.html)
+[FTL]: https://spdx.org/licenses/FTL.html
 
-[Frameworx-1.0](https://spdx.org/licenses/Frameworx-1.0.html)
+[Fair]: https://spdx.org/licenses/Fair.html
 
-[FreeImage](https://spdx.org/licenses/FreeImage.html)
+[Frameworx-1.0]: https://spdx.org/licenses/Frameworx-1.0.html
 
-[GFDL-1.1](https://spdx.org/licenses/GFDL-1.1.html)
+[FreeImage]: https://spdx.org/licenses/FreeImage.html
 
-[GFDL-1.1-only](https://spdx.org/licenses/GFDL-1.1-only.html)
+[GFDL-1.1]: https://spdx.org/licenses/GFDL-1.1.html
 
-[GFDL-1.1-or-later](https://spdx.org/licenses/GFDL-1.1-or-later.html)
+[GFDL-1.1-only]: https://spdx.org/licenses/GFDL-1.1-only.html
 
-[GFDL-1.2](https://spdx.org/licenses/GFDL-1.2.html)
+[GFDL-1.1-or-later]: https://spdx.org/licenses/GFDL-1.1-or-later.html
 
-[GFDL-1.2-only](https://spdx.org/licenses/GFDL-1.2-only.html)
+[GFDL-1.2]: https://spdx.org/licenses/GFDL-1.2.html
 
-[GFDL-1.2-or-later](https://spdx.org/licenses/GFDL-1.2-or-later.html)
+[GFDL-1.2-only]: https://spdx.org/licenses/GFDL-1.2-only.html
 
-[GFDL-1.3](https://spdx.org/licenses/GFDL-1.3.html)
+[GFDL-1.2-or-later]: https://spdx.org/licenses/GFDL-1.2-or-later.html
 
-[GFDL-1.3-only](https://spdx.org/licenses/GFDL-1.3-only.html)
+[GFDL-1.3]: https://spdx.org/licenses/GFDL-1.3.html
 
-[GFDL-1.3-or-later](https://spdx.org/licenses/GFDL-1.3-or-later.html)
+[GFDL-1.3-only]: https://spdx.org/licenses/GFDL-1.3-only.html
 
-[GL2PS](https://spdx.org/licenses/GL2PS.html)
+[GFDL-1.3-or-later]: https://spdx.org/licenses/GFDL-1.3-or-later.html
 
-[GPL-1.0](https://spdx.org/licenses/GPL-1.0.html)
+[GL2PS]: https://spdx.org/licenses/GL2PS.html
 
-[GPL-1.0+](https://spdx.org/licenses/GPL-1.0+.html)
+[GPL-1.0]: https://spdx.org/licenses/GPL-1.0.html
 
-[GPL-1.0-only](https://spdx.org/licenses/GPL-1.0-only.html)
+[GPL-1.0+]: https://spdx.org/licenses/GPL-1.0+.html
 
-[GPL-1.0-or-later](https://spdx.org/licenses/GPL-1.0-or-later.html)
+[GPL-1.0-only]: https://spdx.org/licenses/GPL-1.0-only.html
 
-[GPL-2.0](https://spdx.org/licenses/GPL-2.0.html)
+[GPL-1.0-or-later]: https://spdx.org/licenses/GPL-1.0-or-later.html
 
-[GPL-2.0+](https://spdx.org/licenses/GPL-2.0+.html)
+[GPL-2.0]: https://spdx.org/licenses/GPL-2.0.html
 
-[GPL-2.0-only](https://spdx.org/licenses/GPL-2.0-only.html)
+[GPL-2.0+]: https://spdx.org/licenses/GPL-2.0+.html
 
-[GPL-2.0-or-later](https://spdx.org/licenses/GPL-2.0-or-later.html)
+[GPL-2.0-only]: https://spdx.org/licenses/GPL-2.0-only.html
 
-[GPL-2.0-with-GCC-exception](https://spdx.org/licenses/GPL-2.0-with-GCC-exception.html)
+[GPL-2.0-or-later]: https://spdx.org/licenses/GPL-2.0-or-later.html
 
-[GPL-2.0-with-autoconf-exception](https://spdx.org/licenses/GPL-2.0-with-autoconf-exception.html)
+[GPL-2.0-with-GCC-exception]: https://spdx.org/licenses/GPL-2.0-with-GCC-exception.html
 
-[GPL-2.0-with-bison-exception](https://spdx.org/licenses/GPL-2.0-with-bison-exception.html)
+[GPL-2.0-with-autoconf-exception]: https://spdx.org/licenses/GPL-2.0-with-autoconf-exception.html
 
-[GPL-2.0-with-classpath-exception](https://spdx.org/licenses/GPL-2.0-with-classpath-exception.html)
+[GPL-2.0-with-bison-exception]: https://spdx.org/licenses/GPL-2.0-with-bison-exception.html
 
-[GPL-2.0-with-font-exception](https://spdx.org/licenses/GPL-2.0-with-font-exception.html)
+[GPL-2.0-with-classpath-exception]: https://spdx.org/licenses/GPL-2.0-with-classpath-exception.html
 
-[GPL-3.0](https://spdx.org/licenses/GPL-3.0.html)
+[GPL-2.0-with-font-exception]: https://spdx.org/licenses/GPL-2.0-with-font-exception.html
 
-[GPL-3.0+](https://spdx.org/licenses/GPL-3.0+.html)
+[GPL-3.0]: https://spdx.org/licenses/GPL-3.0.html
 
-[GPL-3.0-only](https://spdx.org/licenses/GPL-3.0-only.html)
+[GPL-3.0+]: https://spdx.org/licenses/GPL-3.0+.html
 
-[GPL-3.0-or-later](https://spdx.org/licenses/GPL-3.0-or-later.html)
+[GPL-3.0-only]: https://spdx.org/licenses/GPL-3.0-only.html
 
-[GPL-3.0-with-GCC-exception](https://spdx.org/licenses/GPL-3.0-with-GCC-exception.html)
+[GPL-3.0-or-later]: https://spdx.org/licenses/GPL-3.0-or-later.html
 
-[GPL-3.0-with-autoconf-exception](https://spdx.org/licenses/GPL-3.0-with-autoconf-exception.html)
+[GPL-3.0-with-GCC-exception]: https://spdx.org/licenses/GPL-3.0-with-GCC-exception.html
 
-[Giftware](https://spdx.org/licenses/Giftware.html)
+[GPL-3.0-with-autoconf-exception]: https://spdx.org/licenses/GPL-3.0-with-autoconf-exception.html
 
-[Glide](https://spdx.org/licenses/Glide.html)
+[Giftware]: https://spdx.org/licenses/Giftware.html
 
-[Glulxe](https://spdx.org/licenses/Glulxe.html)
+[Glide]: https://spdx.org/licenses/Glide.html
 
-[HPND](https://spdx.org/licenses/HPND.html)
+[Glulxe]: https://spdx.org/licenses/Glulxe.html
 
-[HaskellReport](https://spdx.org/licenses/HaskellReport.html)
+[HPND]: https://spdx.org/licenses/HPND.html
 
-[IBM-pibs](https://spdx.org/licenses/IBM-pibs.html)
+[HaskellReport]: https://spdx.org/licenses/HaskellReport.html
 
-[ICU](https://spdx.org/licenses/ICU.html)
+[IBM-pibs]: https://spdx.org/licenses/IBM-pibs.html
 
-[IJG](https://spdx.org/licenses/IJG.html)
+[ICU]: https://spdx.org/licenses/ICU.html
 
-[IPA](https://spdx.org/licenses/IPA.html)
+[IJG]: https://spdx.org/licenses/IJG.html
 
-[IPL-1.0](https://spdx.org/licenses/IPL-1.0.html)
+[IPA]: https://spdx.org/licenses/IPA.html
 
-[ISC](https://spdx.org/licenses/ISC.html)
+[IPL-1.0]: https://spdx.org/licenses/IPL-1.0.html
 
-[ImageMagick](https://spdx.org/licenses/ImageMagick.html)
+[ISC]: https://spdx.org/licenses/ISC.html
 
-[Imlib2](https://spdx.org/licenses/Imlib2.html)
+[ImageMagick]: https://spdx.org/licenses/ImageMagick.html
 
-[Info-ZIP](https://spdx.org/licenses/Info-ZIP.html)
+[Imlib2]: https://spdx.org/licenses/Imlib2.html
 
-[Intel](https://spdx.org/licenses/Intel.html)
+[Info-ZIP]: https://spdx.org/licenses/Info-ZIP.html
 
-[Intel-ACPI](https://spdx.org/licenses/Intel-ACPI.html)
+[Intel]: https://spdx.org/licenses/Intel.html
 
-[Interbase-1.0](https://spdx.org/licenses/Interbase-1.0.html)
+[Intel-ACPI]: https://spdx.org/licenses/Intel-ACPI.html
 
-[JSON](https://spdx.org/licenses/JSON.html)
+[Interbase-1.0]: https://spdx.org/licenses/Interbase-1.0.html
 
-[JasPer-2.0](https://spdx.org/licenses/JasPer-2.0.html)
+[JSON]: https://spdx.org/licenses/JSON.html
 
-[LAL-1.2](https://spdx.org/licenses/LAL-1.2.html)
+[JasPer-2.0]: https://spdx.org/licenses/JasPer-2.0.html
 
-[LAL-1.3](https://spdx.org/licenses/LAL-1.3.html)
+[LAL-1.2]: https://spdx.org/licenses/LAL-1.2.html
 
-[LGPL-2.0](https://spdx.org/licenses/LGPL-2.0.html)
+[LAL-1.3]: https://spdx.org/licenses/LAL-1.3.html
 
-[LGPL-2.0+](https://spdx.org/licenses/LGPL-2.0+.html)
+[LGPL-2.0]: https://spdx.org/licenses/LGPL-2.0.html
 
-[LGPL-2.0-only](https://spdx.org/licenses/LGPL-2.0-only.html)
+[LGPL-2.0+]: https://spdx.org/licenses/LGPL-2.0+.html
 
-[LGPL-2.0-or-later](https://spdx.org/licenses/LGPL-2.0-or-later.html)
+[LGPL-2.0-only]: https://spdx.org/licenses/LGPL-2.0-only.html
 
-[LGPL-2.1](https://spdx.org/licenses/LGPL-2.1.html)
+[LGPL-2.0-or-later]: https://spdx.org/licenses/LGPL-2.0-or-later.html
 
-[LGPL-2.1+](https://spdx.org/licenses/LGPL-2.1+.html)
+[LGPL-2.1]: https://spdx.org/licenses/LGPL-2.1.html
 
-[LGPL-2.1-only](https://spdx.org/licenses/LGPL-2.1-only.html)
+[LGPL-2.1+]: https://spdx.org/licenses/LGPL-2.1+.html
 
-[LGPL-2.1-or-later](https://spdx.org/licenses/LGPL-2.1-or-later.html)
+[LGPL-2.1-only]: https://spdx.org/licenses/LGPL-2.1-only.html
 
-[LGPL-3.0](https://spdx.org/licenses/LGPL-3.0.html)
+[LGPL-2.1-or-later]: https://spdx.org/licenses/LGPL-2.1-or-later.html
 
-[LGPL-3.0+](https://spdx.org/licenses/LGPL-3.0+.html)
+[LGPL-3.0]: https://spdx.org/licenses/LGPL-3.0.html
 
-[LGPL-3.0-only](https://spdx.org/licenses/LGPL-3.0-only.html)
+[LGPL-3.0+]: https://spdx.org/licenses/LGPL-3.0+.html
 
-[LGPL-3.0-or-later](https://spdx.org/licenses/LGPL-3.0-or-later.html)
+[LGPL-3.0-only]: https://spdx.org/licenses/LGPL-3.0-only.html
 
-[LGPLLR](https://spdx.org/licenses/LGPLLR.html)
+[LGPL-3.0-or-later]: https://spdx.org/licenses/LGPL-3.0-or-later.html
 
-[LPL-1.0](https://spdx.org/licenses/LPL-1.0.html)
+[LGPLLR]: https://spdx.org/licenses/LGPLLR.html
 
-[LPL-1.02](https://spdx.org/licenses/LPL-1.02.html)
+[LPL-1.0]: https://spdx.org/licenses/LPL-1.0.html
 
-[LPPL-1.0](https://spdx.org/licenses/LPPL-1.0.html)
+[LPL-1.02]: https://spdx.org/licenses/LPL-1.02.html
 
-[LPPL-1.1](https://spdx.org/licenses/LPPL-1.1.html)
+[LPPL-1.0]: https://spdx.org/licenses/LPPL-1.0.html
 
-[LPPL-1.2](https://spdx.org/licenses/LPPL-1.2.html)
+[LPPL-1.1]: https://spdx.org/licenses/LPPL-1.1.html
 
-[LPPL-1.3a](https://spdx.org/licenses/LPPL-1.3a.html)
+[LPPL-1.2]: https://spdx.org/licenses/LPPL-1.2.html
 
-[LPPL-1.3c](https://spdx.org/licenses/LPPL-1.3c.html)
+[LPPL-1.3a]: https://spdx.org/licenses/LPPL-1.3a.html
 
-[Latex2e](https://spdx.org/licenses/Latex2e.html)
+[LPPL-1.3c]: https://spdx.org/licenses/LPPL-1.3c.html
 
-[Leptonica](https://spdx.org/licenses/Leptonica.html)
+[Latex2e]: https://spdx.org/licenses/Latex2e.html
 
-[LiLiQ-P-1.1](https://spdx.org/licenses/LiLiQ-P-1.1.html)
+[Leptonica]: https://spdx.org/licenses/Leptonica.html
 
-[LiLiQ-R-1.1](https://spdx.org/licenses/LiLiQ-R-1.1.html)
+[LiLiQ-P-1.1]: https://spdx.org/licenses/LiLiQ-P-1.1.html
 
-[LiLiQ-Rplus-1.1](https://spdx.org/licenses/LiLiQ-Rplus-1.1.html)
+[LiLiQ-R-1.1]: https://spdx.org/licenses/LiLiQ-R-1.1.html
 
-[Libpng](https://spdx.org/licenses/Libpng.html)
+[LiLiQ-Rplus-1.1]: https://spdx.org/licenses/LiLiQ-Rplus-1.1.html
 
-[Linux-OpenIB](https://spdx.org/licenses/Linux-OpenIB.html)
+[Libpng]: https://spdx.org/licenses/Libpng.html
 
-[MIT](https://spdx.org/licenses/MIT.html)
+[Linux-OpenIB]: https://spdx.org/licenses/Linux-OpenIB.html
 
-[MIT-0](https://spdx.org/licenses/MIT-0.html)
+[MIT]: https://spdx.org/licenses/MIT.html
 
-[MIT-CMU](https://spdx.org/licenses/MIT-CMU.html)
+[MIT-0]: https://spdx.org/licenses/MIT-0.html
 
-[MIT-advertising](https://spdx.org/licenses/MIT-advertising.html)
+[MIT-CMU]: https://spdx.org/licenses/MIT-CMU.html
 
-[MIT-enna](https://spdx.org/licenses/MIT-enna.html)
+[MIT-advertising]: https://spdx.org/licenses/MIT-advertising.html
 
-[MIT-feh](https://spdx.org/licenses/MIT-feh.html)
+[MIT-enna]: https://spdx.org/licenses/MIT-enna.html
 
-[MITNFA](https://spdx.org/licenses/MITNFA.html)
+[MIT-feh]: https://spdx.org/licenses/MIT-feh.html
 
-[MPL-1.0](https://spdx.org/licenses/MPL-1.0.html)
+[MITNFA]: https://spdx.org/licenses/MITNFA.html
 
-[MPL-1.1](https://spdx.org/licenses/MPL-1.1.html)
+[MPL-1.0]: https://spdx.org/licenses/MPL-1.0.html
 
-[MPL-2.0](https://spdx.org/licenses/MPL-2.0.html)
+[MPL-1.1]: https://spdx.org/licenses/MPL-1.1.html
 
-[MPL-2.0-no-copyleft-exception](https://spdx.org/licenses/MPL-2.0-no-copyleft-exception.html)
+[MPL-2.0]: https://spdx.org/licenses/MPL-2.0.html
 
-[MS-PL](https://spdx.org/licenses/MS-PL.html)
+[MPL-2.0-no-copyleft-exception]: https://spdx.org/licenses/MPL-2.0-no-copyleft-exception.html
 
-[MS-RL](https://spdx.org/licenses/MS-RL.html)
+[MS-PL]: https://spdx.org/licenses/MS-PL.html
 
-[MTLL](https://spdx.org/licenses/MTLL.html)
+[MS-RL]: https://spdx.org/licenses/MS-RL.html
 
-[MakeIndex](https://spdx.org/licenses/MakeIndex.html)
+[MTLL]: https://spdx.org/licenses/MTLL.html
 
-[MirOS](https://spdx.org/licenses/MirOS.html)
+[MakeIndex]: https://spdx.org/licenses/MakeIndex.html
 
-[Motosoto](https://spdx.org/licenses/Motosoto.html)
+[MirOS]: https://spdx.org/licenses/MirOS.html
 
-[Multics](https://spdx.org/licenses/Multics.html)
+[Motosoto]: https://spdx.org/licenses/Motosoto.html
 
-[Mup](https://spdx.org/licenses/Mup.html)
+[Multics]: https://spdx.org/licenses/Multics.html
 
-[NASA-1.3](https://spdx.org/licenses/NASA-1.3.html)
+[Mup]: https://spdx.org/licenses/Mup.html
 
-[NBPL-1.0](https://spdx.org/licenses/NBPL-1.0.html)
+[NASA-1.3]: https://spdx.org/licenses/NASA-1.3.html
 
-[NCSA](https://spdx.org/licenses/NCSA.html)
+[NBPL-1.0]: https://spdx.org/licenses/NBPL-1.0.html
 
-[NGPL](https://spdx.org/licenses/NGPL.html)
+[NCSA]: https://spdx.org/licenses/NCSA.html
 
-[NLOD-1.0](https://spdx.org/licenses/NLOD-1.0.html)
+[NGPL]: https://spdx.org/licenses/NGPL.html
 
-[NLPL](https://spdx.org/licenses/NLPL.html)
+[NLOD-1.0]: https://spdx.org/licenses/NLOD-1.0.html
 
-[NOSL](https://spdx.org/licenses/NOSL.html)
+[NLPL]: https://spdx.org/licenses/NLPL.html
 
-[NPL-1.0](https://spdx.org/licenses/NPL-1.0.html)
+[NOSL]: https://spdx.org/licenses/NOSL.html
 
-[NPL-1.1](https://spdx.org/licenses/NPL-1.1.html)
+[NPL-1.0]: https://spdx.org/licenses/NPL-1.0.html
 
-[NPOSL-3.0](https://spdx.org/licenses/NPOSL-3.0.html)
+[NPL-1.1]: https://spdx.org/licenses/NPL-1.1.html
 
-[NRL](https://spdx.org/licenses/NRL.html)
+[NPOSL-3.0]: https://spdx.org/licenses/NPOSL-3.0.html
 
-[NTP](https://spdx.org/licenses/NTP.html)
+[NRL]: https://spdx.org/licenses/NRL.html
 
-[Naumen](https://spdx.org/licenses/Naumen.html)
+[NTP]: https://spdx.org/licenses/NTP.html
 
-[Net-SNMP](https://spdx.org/licenses/Net-SNMP.html)
+[Naumen]: https://spdx.org/licenses/Naumen.html
 
-[NetCDF](https://spdx.org/licenses/NetCDF.html)
+[Net-SNMP]: https://spdx.org/licenses/Net-SNMP.html
 
-[Newsletr](https://spdx.org/licenses/Newsletr.html)
+[NetCDF]: https://spdx.org/licenses/NetCDF.html
 
-[Nokia](https://spdx.org/licenses/Nokia.html)
+[Newsletr]: https://spdx.org/licenses/Newsletr.html
 
-[Noweb](https://spdx.org/licenses/Noweb.html)
+[Nokia]: https://spdx.org/licenses/Nokia.html
 
-[Nunit](https://spdx.org/licenses/Nunit.html)
+[Noweb]: https://spdx.org/licenses/Noweb.html
 
-[OCCT-PL](https://spdx.org/licenses/OCCT-PL.html)
+[Nunit]: https://spdx.org/licenses/Nunit.html
 
-[OCLC-2.0](https://spdx.org/licenses/OCLC-2.0.html)
+[OCCT-PL]: https://spdx.org/licenses/OCCT-PL.html
 
-[ODC-By-1.0](https://spdx.org/licenses/ODC-By-1.0.html)
+[OCLC-2.0]: https://spdx.org/licenses/OCLC-2.0.html
 
-[ODbL-1.0](https://spdx.org/licenses/ODbL-1.0.html)
+[ODC-By-1.0]: https://spdx.org/licenses/ODC-By-1.0.html
 
-[OFL-1.0](https://spdx.org/licenses/OFL-1.0.html)
+[ODbL-1.0]: https://spdx.org/licenses/ODbL-1.0.html
 
-[OFL-1.1](https://spdx.org/licenses/OFL-1.1.html)
+[OFL-1.0]: https://spdx.org/licenses/OFL-1.0.html
 
-[OGL-UK-1.0](https://spdx.org/licenses/OGL-UK-1.0.html)
+[OFL-1.1]: https://spdx.org/licenses/OFL-1.1.html
 
-[OGL-UK-2.0](https://spdx.org/licenses/OGL-UK-2.0.html)
+[OGL-UK-1.0]: https://spdx.org/licenses/OGL-UK-1.0.html
 
-[OGL-UK-3.0](https://spdx.org/licenses/OGL-UK-3.0.html)
+[OGL-UK-2.0]: https://spdx.org/licenses/OGL-UK-2.0.html
 
-[OGTSL](https://spdx.org/licenses/OGTSL.html)
+[OGL-UK-3.0]: https://spdx.org/licenses/OGL-UK-3.0.html
 
-[OLDAP-1.1](https://spdx.org/licenses/OLDAP-1.1.html)
+[OGTSL]: https://spdx.org/licenses/OGTSL.html
 
-[OLDAP-1.2](https://spdx.org/licenses/OLDAP-1.2.html)
+[OLDAP-1.1]: https://spdx.org/licenses/OLDAP-1.1.html
 
-[OLDAP-1.3](https://spdx.org/licenses/OLDAP-1.3.html)
+[OLDAP-1.2]: https://spdx.org/licenses/OLDAP-1.2.html
 
-[OLDAP-1.4](https://spdx.org/licenses/OLDAP-1.4.html)
+[OLDAP-1.3]: https://spdx.org/licenses/OLDAP-1.3.html
 
-[OLDAP-2.0](https://spdx.org/licenses/OLDAP-2.0.html)
+[OLDAP-1.4]: https://spdx.org/licenses/OLDAP-1.4.html
 
-[OLDAP-2.0.1](https://spdx.org/licenses/OLDAP-2.0.1.html)
+[OLDAP-2.0]: https://spdx.org/licenses/OLDAP-2.0.html
 
-[OLDAP-2.1](https://spdx.org/licenses/OLDAP-2.1.html)
+[OLDAP-2.0.1]: https://spdx.org/licenses/OLDAP-2.0.1.html
 
-[OLDAP-2.2](https://spdx.org/licenses/OLDAP-2.2.html)
+[OLDAP-2.1]: https://spdx.org/licenses/OLDAP-2.1.html
 
-[OLDAP-2.2.1](https://spdx.org/licenses/OLDAP-2.2.1.html)
+[OLDAP-2.2]: https://spdx.org/licenses/OLDAP-2.2.html
 
-[OLDAP-2.2.2](https://spdx.org/licenses/OLDAP-2.2.2.html)
+[OLDAP-2.2.1]: https://spdx.org/licenses/OLDAP-2.2.1.html
 
-[OLDAP-2.3](https://spdx.org/licenses/OLDAP-2.3.html)
+[OLDAP-2.2.2]: https://spdx.org/licenses/OLDAP-2.2.2.html
 
-[OLDAP-2.4](https://spdx.org/licenses/OLDAP-2.4.html)
+[OLDAP-2.3]: https://spdx.org/licenses/OLDAP-2.3.html
 
-[OLDAP-2.5](https://spdx.org/licenses/OLDAP-2.5.html)
+[OLDAP-2.4]: https://spdx.org/licenses/OLDAP-2.4.html
 
-[OLDAP-2.6](https://spdx.org/licenses/OLDAP-2.6.html)
+[OLDAP-2.5]: https://spdx.org/licenses/OLDAP-2.5.html
 
-[OLDAP-2.7](https://spdx.org/licenses/OLDAP-2.7.html)
+[OLDAP-2.6]: https://spdx.org/licenses/OLDAP-2.6.html
 
-[OLDAP-2.8](https://spdx.org/licenses/OLDAP-2.8.html)
+[OLDAP-2.7]: https://spdx.org/licenses/OLDAP-2.7.html
 
-[OML](https://spdx.org/licenses/OML.html)
+[OLDAP-2.8]: https://spdx.org/licenses/OLDAP-2.8.html
 
-[OPL-1.0](https://spdx.org/licenses/OPL-1.0.html)
+[OML]: https://spdx.org/licenses/OML.html
 
-[OSET-PL-2.1](https://spdx.org/licenses/OSET-PL-2.1.html)
+[OPL-1.0]: https://spdx.org/licenses/OPL-1.0.html
 
-[OSL-1.0](https://spdx.org/licenses/OSL-1.0.html)
+[OSET-PL-2.1]: https://spdx.org/licenses/OSET-PL-2.1.html
 
-[OSL-1.1](https://spdx.org/licenses/OSL-1.1.html)
+[OSL-1.0]: https://spdx.org/licenses/OSL-1.0.html
 
-[OSL-2.0](https://spdx.org/licenses/OSL-2.0.html)
+[OSL-1.1]: https://spdx.org/licenses/OSL-1.1.html
 
-[OSL-2.1](https://spdx.org/licenses/OSL-2.1.html)
+[OSL-2.0]: https://spdx.org/licenses/OSL-2.0.html
 
-[OSL-3.0](https://spdx.org/licenses/OSL-3.0.html)
+[OSL-2.1]: https://spdx.org/licenses/OSL-2.1.html
 
-[OpenSSL](https://spdx.org/licenses/OpenSSL.html)
+[OSL-3.0]: https://spdx.org/licenses/OSL-3.0.html
 
-[PDDL-1.0](https://spdx.org/licenses/PDDL-1.0.html)
+[OpenSSL]: https://spdx.org/licenses/OpenSSL.html
 
-[PHP-3.0](https://spdx.org/licenses/PHP-3.0.html)
+[PDDL-1.0]: https://spdx.org/licenses/PDDL-1.0.html
 
-[PHP-3.01](https://spdx.org/licenses/PHP-3.01.html)
+[PHP-3.0]: https://spdx.org/licenses/PHP-3.0.html
 
-[Plexus](https://spdx.org/licenses/Plexus.html)
+[PHP-3.01]: https://spdx.org/licenses/PHP-3.01.html
 
-[PostgreSQL](https://spdx.org/licenses/PostgreSQL.html)
+[Plexus]: https://spdx.org/licenses/Plexus.html
 
-[Python-2.0](https://spdx.org/licenses/Python-2.0.html)
+[PostgreSQL]: https://spdx.org/licenses/PostgreSQL.html
 
-[QPL-1.0](https://spdx.org/licenses/QPL-1.0.html)
+[Python-2.0]: https://spdx.org/licenses/Python-2.0.html
 
-[Qhull](https://spdx.org/licenses/Qhull.html)
+[QPL-1.0]: https://spdx.org/licenses/QPL-1.0.html
 
-[RHeCos-1.1](https://spdx.org/licenses/RHeCos-1.1.html)
+[Qhull]: https://spdx.org/licenses/Qhull.html
 
-[RPL-1.1](https://spdx.org/licenses/RPL-1.1.html)
+[RHeCos-1.1]: https://spdx.org/licenses/RHeCos-1.1.html
 
-[RPL-1.5](https://spdx.org/licenses/RPL-1.5.html)
+[RPL-1.1]: https://spdx.org/licenses/RPL-1.1.html
 
-[RPSL-1.0](https://spdx.org/licenses/RPSL-1.0.html)
+[RPL-1.5]: https://spdx.org/licenses/RPL-1.5.html
 
-[RSA-MD](https://spdx.org/licenses/RSA-MD.html)
+[RPSL-1.0]: https://spdx.org/licenses/RPSL-1.0.html
 
-[RSCPL](https://spdx.org/licenses/RSCPL.html)
+[RSA-MD]: https://spdx.org/licenses/RSA-MD.html
 
-[Rdisc](https://spdx.org/licenses/Rdisc.html)
+[RSCPL]: https://spdx.org/licenses/RSCPL.html
 
-[Ruby](https://spdx.org/licenses/Ruby.html)
+[Rdisc]: https://spdx.org/licenses/Rdisc.html
 
-[SAX-PD](https://spdx.org/licenses/SAX-PD.html)
+[Ruby]: https://spdx.org/licenses/Ruby.html
 
-[SCEA](https://spdx.org/licenses/SCEA.html)
+[SAX-PD]: https://spdx.org/licenses/SAX-PD.html
 
-[SGI-B-1.0](https://spdx.org/licenses/SGI-B-1.0.html)
+[SCEA]: https://spdx.org/licenses/SCEA.html
 
-[SGI-B-1.1](https://spdx.org/licenses/SGI-B-1.1.html)
+[SGI-B-1.0]: https://spdx.org/licenses/SGI-B-1.0.html
 
-[SGI-B-2.0](https://spdx.org/licenses/SGI-B-2.0.html)
+[SGI-B-1.1]: https://spdx.org/licenses/SGI-B-1.1.html
 
-[SISSL](https://spdx.org/licenses/SISSL.html)
+[SGI-B-2.0]: https://spdx.org/licenses/SGI-B-2.0.html
 
-[SISSL-1.2](https://spdx.org/licenses/SISSL-1.2.html)
+[SISSL]: https://spdx.org/licenses/SISSL.html
 
-[SMLNJ](https://spdx.org/licenses/SMLNJ.html)
+[SISSL-1.2]: https://spdx.org/licenses/SISSL-1.2.html
 
-[SMPPL](https://spdx.org/licenses/SMPPL.html)
+[SMLNJ]: https://spdx.org/licenses/SMLNJ.html
 
-[SNIA](https://spdx.org/licenses/SNIA.html)
+[SMPPL]: https://spdx.org/licenses/SMPPL.html
 
-[SPL-1.0](https://spdx.org/licenses/SPL-1.0.html)
+[SNIA]: https://spdx.org/licenses/SNIA.html
 
-[SWL](https://spdx.org/licenses/SWL.html)
+[SPL-1.0]: https://spdx.org/licenses/SPL-1.0.html
 
-[Saxpath](https://spdx.org/licenses/Saxpath.html)
+[SWL]: https://spdx.org/licenses/SWL.html
 
-[Sendmail](https://spdx.org/licenses/Sendmail.html)
+[Saxpath]: https://spdx.org/licenses/Saxpath.html
 
-[Sendmail-8.23](https://spdx.org/licenses/Sendmail-8.23.html)
+[Sendmail]: https://spdx.org/licenses/Sendmail.html
 
-[SimPL-2.0](https://spdx.org/licenses/SimPL-2.0.html)
+[Sendmail-8.23]: https://spdx.org/licenses/Sendmail-8.23.html
 
-[Sleepycat](https://spdx.org/licenses/Sleepycat.html)
+[SimPL-2.0]: https://spdx.org/licenses/SimPL-2.0.html
 
-[Spencer-86](https://spdx.org/licenses/Spencer-86.html)
+[Sleepycat]: https://spdx.org/licenses/Sleepycat.html
 
-[Spencer-94](https://spdx.org/licenses/Spencer-94.html)
+[Spencer-86]: https://spdx.org/licenses/Spencer-86.html
 
-[Spencer-99](https://spdx.org/licenses/Spencer-99.html)
+[Spencer-94]: https://spdx.org/licenses/Spencer-94.html
 
-[StandardML-NJ](https://spdx.org/licenses/StandardML-NJ.html)
+[Spencer-99]: https://spdx.org/licenses/Spencer-99.html
 
-[SugarCRM-1.1.3](https://spdx.org/licenses/SugarCRM-1.1.3.html)
+[StandardML-NJ]: https://spdx.org/licenses/StandardML-NJ.html
 
-[TCL](https://spdx.org/licenses/TCL.html)
+[SugarCRM-1.1.3]: https://spdx.org/licenses/SugarCRM-1.1.3.html
 
-[TCP-wrappers](https://spdx.org/licenses/TCP-wrappers.html)
+[TCL]: https://spdx.org/licenses/TCL.html
 
-[TMate](https://spdx.org/licenses/TMate.html)
+[TCP-wrappers]: https://spdx.org/licenses/TCP-wrappers.html
 
-[TORQUE-1.1](https://spdx.org/licenses/TORQUE-1.1.html)
+[TMate]: https://spdx.org/licenses/TMate.html
 
-[TOSL](https://spdx.org/licenses/TOSL.html)
+[TORQUE-1.1]: https://spdx.org/licenses/TORQUE-1.1.html
 
-[TU-Berlin-1.0](https://spdx.org/licenses/TU-Berlin-1.0.html)
+[TOSL]: https://spdx.org/licenses/TOSL.html
 
-[TU-Berlin-2.0](https://spdx.org/licenses/TU-Berlin-2.0.html)
+[TU-Berlin-1.0]: https://spdx.org/licenses/TU-Berlin-1.0.html
 
-[UPL-1.0](https://spdx.org/licenses/UPL-1.0.html)
+[TU-Berlin-2.0]: https://spdx.org/licenses/TU-Berlin-2.0.html
 
-[Unicode-DFS-2015](https://spdx.org/licenses/Unicode-DFS-2015.html)
+[UPL-1.0]: https://spdx.org/licenses/UPL-1.0.html
 
-[Unicode-DFS-2016](https://spdx.org/licenses/Unicode-DFS-2016.html)
+[Unicode-DFS-2015]: https://spdx.org/licenses/Unicode-DFS-2015.html
 
-[Unicode-TOU](https://spdx.org/licenses/Unicode-TOU.html)
+[Unicode-DFS-2016]: https://spdx.org/licenses/Unicode-DFS-2016.html
 
-[Unlicense](https://spdx.org/licenses/Unlicense.html)
+[Unicode-TOU]: https://spdx.org/licenses/Unicode-TOU.html
 
-[VOSTROM](https://spdx.org/licenses/VOSTROM.html)
+[Unlicense]: https://spdx.org/licenses/Unlicense.html
 
-[VSL-1.0](https://spdx.org/licenses/VSL-1.0.html)
+[VOSTROM]: https://spdx.org/licenses/VOSTROM.html
 
-[Vim](https://spdx.org/licenses/Vim.html)
+[VSL-1.0]: https://spdx.org/licenses/VSL-1.0.html
 
-[W3C](https://spdx.org/licenses/W3C.html)
+[Vim]: https://spdx.org/licenses/Vim.html
 
-[W3C-19980720](https://spdx.org/licenses/W3C-19980720.html)
+[W3C]: https://spdx.org/licenses/W3C.html
 
-[W3C-20150513](https://spdx.org/licenses/W3C-20150513.html)
+[W3C-19980720]: https://spdx.org/licenses/W3C-19980720.html
 
-[WTFPL](https://spdx.org/licenses/WTFPL.html)
+[W3C-20150513]: https://spdx.org/licenses/W3C-20150513.html
 
-[Watcom-1.0](https://spdx.org/licenses/Watcom-1.0.html)
+[WTFPL]: https://spdx.org/licenses/WTFPL.html
 
-[Wsuipa](https://spdx.org/licenses/Wsuipa.html)
+[Watcom-1.0]: https://spdx.org/licenses/Watcom-1.0.html
 
-[X11](https://spdx.org/licenses/X11.html)
+[Wsuipa]: https://spdx.org/licenses/Wsuipa.html
 
-[XFree86-1.1](https://spdx.org/licenses/XFree86-1.1.html)
+[X11]: https://spdx.org/licenses/X11.html
 
-[XSkat](https://spdx.org/licenses/XSkat.html)
+[XFree86-1.1]: https://spdx.org/licenses/XFree86-1.1.html
 
-[Xerox](https://spdx.org/licenses/Xerox.html)
+[XSkat]: https://spdx.org/licenses/XSkat.html
 
-[Xnet](https://spdx.org/licenses/Xnet.html)
+[Xerox]: https://spdx.org/licenses/Xerox.html
 
-[YPL-1.0](https://spdx.org/licenses/YPL-1.0.html)
+[Xnet]: https://spdx.org/licenses/Xnet.html
 
-[YPL-1.1](https://spdx.org/licenses/YPL-1.1.html)
+[YPL-1.0]: https://spdx.org/licenses/YPL-1.0.html
 
-[ZPL-1.1](https://spdx.org/licenses/ZPL-1.1.html)
+[YPL-1.1]: https://spdx.org/licenses/YPL-1.1.html
 
-[ZPL-2.0](https://spdx.org/licenses/ZPL-2.0.html)
+[ZPL-1.1]: https://spdx.org/licenses/ZPL-1.1.html
 
-[ZPL-2.1](https://spdx.org/licenses/ZPL-2.1.html)
+[ZPL-2.0]: https://spdx.org/licenses/ZPL-2.0.html
 
-[Zed](https://spdx.org/licenses/Zed.html)
+[ZPL-2.1]: https://spdx.org/licenses/ZPL-2.1.html
 
-[Zend-2.0](https://spdx.org/licenses/Zend-2.0.html)
+[Zed]: https://spdx.org/licenses/Zed.html
 
-[Zimbra-1.3](https://spdx.org/licenses/Zimbra-1.3.html)
+[Zend-2.0]: https://spdx.org/licenses/Zend-2.0.html
 
-[Zimbra-1.4](https://spdx.org/licenses/Zimbra-1.4.html)
+[Zimbra-1.3]: https://spdx.org/licenses/Zimbra-1.3.html
 
-[Zlib](https://spdx.org/licenses/Zlib.html)
+[Zimbra-1.4]: https://spdx.org/licenses/Zimbra-1.4.html
 
-[bzip2-1.0.5](https://spdx.org/licenses/bzip2-1.0.5.html)
+[Zlib]: https://spdx.org/licenses/Zlib.html
 
-[bzip2-1.0.6](https://spdx.org/licenses/bzip2-1.0.6.html)
+[bzip2-1.0.5]: https://spdx.org/licenses/bzip2-1.0.5.html
 
-[copyleft-next-0.3.0](https://spdx.org/licenses/copyleft-next-0.3.0.html)
+[bzip2-1.0.6]: https://spdx.org/licenses/bzip2-1.0.6.html
 
-[copyleft-next-0.3.1](https://spdx.org/licenses/copyleft-next-0.3.1.html)
+[copyleft-next-0.3.0]: https://spdx.org/licenses/copyleft-next-0.3.0.html
 
-[curl](https://spdx.org/licenses/curl.html)
+[copyleft-next-0.3.1]: https://spdx.org/licenses/copyleft-next-0.3.1.html
 
-[diffmark](https://spdx.org/licenses/diffmark.html)
+[curl]: https://spdx.org/licenses/curl.html
 
-[dvipdfm](https://spdx.org/licenses/dvipdfm.html)
+[diffmark]: https://spdx.org/licenses/diffmark.html
 
-[eCos-2.0](https://spdx.org/licenses/eCos-2.0.html)
+[dvipdfm]: https://spdx.org/licenses/dvipdfm.html
 
-[eGenix](https://spdx.org/licenses/eGenix.html)
+[eCos-2.0]: https://spdx.org/licenses/eCos-2.0.html
 
-[gSOAP-1.3b](https://spdx.org/licenses/gSOAP-1.3b.html)
+[eGenix]: https://spdx.org/licenses/eGenix.html
 
-[gnuplot](https://spdx.org/licenses/gnuplot.html)
+[gSOAP-1.3b]: https://spdx.org/licenses/gSOAP-1.3b.html
 
-[iMatix](https://spdx.org/licenses/iMatix.html)
+[gnuplot]: https://spdx.org/licenses/gnuplot.html
 
-[libtiff](https://spdx.org/licenses/libtiff.html)
+[iMatix]: https://spdx.org/licenses/iMatix.html
 
-[mpich2](https://spdx.org/licenses/mpich2.html)
+[libtiff]: https://spdx.org/licenses/libtiff.html
 
-[psfrag](https://spdx.org/licenses/psfrag.html)
+[mpich2]: https://spdx.org/licenses/mpich2.html
 
-[psutils](https://spdx.org/licenses/psutils.html)
+[psfrag]: https://spdx.org/licenses/psfrag.html
 
-[wxWindows](https://spdx.org/licenses/wxWindows.html)
+[psutils]: https://spdx.org/licenses/psutils.html
 
-[xinetd](https://spdx.org/licenses/xinetd.html)
+[wxWindows]: https://spdx.org/licenses/wxWindows.html
 
-[xpp](https://spdx.org/licenses/xpp.html)
+[xinetd]: https://spdx.org/licenses/xinetd.html
 
-[zlib-acknowledgement](https://spdx.org/licenses/zlib-acknowledgement.html)
+[xpp]: https://spdx.org/licenses/xpp.html
+
+[zlib-acknowledgement]: https://spdx.org/licenses/zlib-acknowledgement.html
 
